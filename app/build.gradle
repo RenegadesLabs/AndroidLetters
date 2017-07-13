@@ -30,4 +30,5 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:25.3.1'
 
     compile 'com.github.keygenqt:android-letters:1.0.2'
+    compile 'com.github.RenegadesLabs:AndroidLetters:b8134e1a23'
 }
